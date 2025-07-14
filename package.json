@@ -1,0 +1,19 @@
+{
+  "name": "eslint-cache-tailwind-csstree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:cache": "eslint --cache ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/css": "^0.10.0",
+    "eslint": "^9.31.0",
+    "tailwind-csstree": "^0.1.1"
+  }
+}
